@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**arrayJY/arrayJY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ```
           _____                   _____                   _____                   _____            _____                   _____            _____          
          /\    \                 /\    \                 /\    \                 /\    \          |\    \                 /\    \          |\    \         
@@ -30,6 +27,7 @@
 ![arrayJY's github stats](https://github-readme-stats.vercel.app/api?username=arrayJY)
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrayJY&layout=compact)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
