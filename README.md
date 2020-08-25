@@ -14,7 +14,7 @@
 ```
 
 - 📖 Undergraduate
-- 🎨 Interst: CG/OS/Frontend
+- 🎨 Interest: CG/OS/Frontend
 - 📧 Email: arrayJY@outlook.com
 
 
