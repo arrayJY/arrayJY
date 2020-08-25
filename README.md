@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ```
           _____                   _____                   _____                   _____            _____                   _____            _____          
@@ -25,6 +24,7 @@
 ```
 
 ![arrayJY's github stats](https://github-readme-stats.vercel.app/api?username=arrayJY)
+
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrayJY&layout=compact)
 
 <!--
