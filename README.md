@@ -13,7 +13,7 @@
      \/__/         \|__|         \|__|         \/__/                                             
 ```
 
-- 📖 Undergraduate
+- 📖 Status: Undergraduate
 - 🎨 Interest: CG/OS/Frontend
 - 📧 Email: arrayJY@outlook.com
 
