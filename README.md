@@ -14,8 +14,8 @@
 ```
 
 - 📖 Status: Undergraduate
-- 🎨 Interest: CG/OS/Frontend
-- 📧 Email: arrayJY@outlook.com
+- 🎨 Interests: Game Development/Computer Graphics/Web Frontend
+- 📧 Email: i@jiyuan.one
 
 
 ![arrayJY's github stats](https://github-readme-stats.vercel.app/api?username=arrayJY)
