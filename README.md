@@ -18,6 +18,7 @@
 - 📧 Email: i@jiyuan.one
 
 
-![arrayJY's github stats](https://github-readme-stats.vercel.app/api?username=arrayJY)
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrayJY&layout=compact)
 
+
+
+<script src="https://gist.github.com/arrayJY/6ceb79ea0f9b9f5675b288b6a135038e.js"></script>
