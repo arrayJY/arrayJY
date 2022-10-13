@@ -28,7 +28,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install httpx
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Lint with flake8
+    - name: Weekly Update 
       run: |
         python3 ./weekly.py
+    - name: Commit and push
+      run: |
+        git config --global user.name "arrayJY"
+        git config --global user.email "i@jiyuan.one"
+        git add -A
+        git commit -m "weekly update"
+        git push
+
 
